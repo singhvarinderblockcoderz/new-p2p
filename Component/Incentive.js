@@ -1018,7 +1018,7 @@ export default function Incentive() {
                 </a>
               </li>
               <li>
-                <a href="/genealogy">
+                <a href="/mainGenealogy">
                   <img src="/member_tree.png" alt="" />
                 </a>
               </li>

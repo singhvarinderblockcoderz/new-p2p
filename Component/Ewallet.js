@@ -243,7 +243,7 @@ export default function Ewallet() {
                 </Link>
               </li>
               <li>
-                <a href="/genealogy">
+                <a href="/mainGenealogy">
                   <img src="/member_tree.png" alt="" />
                 </a>
               </li>

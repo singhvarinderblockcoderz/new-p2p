@@ -86,7 +86,7 @@ export default function Settings() {
                 </Link>
               </li>
               <li>
-                <Link href="/genealogy">
+                <Link href="/mainGenealogy">
                   <img src="/member_tree.png" alt="" />
                 </Link>
               </li>
